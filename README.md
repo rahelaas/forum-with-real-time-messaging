@@ -1,4 +1,4 @@
-# **_Real-Time Forum Project_**
+# **_Real-Time Forum Typing-in-Progress Project_**
 
 ## **How to run:**
 ```
@@ -20,7 +20,11 @@ then "npm run serve"
 ```
 http://localhost:8080
 ```
+## Task description:
+```
+https://github.com/01-edu/public/tree/master/subjects/real-time-forum/typing-in-progress
+```
 ## Audit questions here:
 ```
-https://github.com/01-edu/public/tree/master/subjects/real-time-forum/audit
+https://github.com/01-edu/public/blob/master/subjects/real-time-forum/typing-in-progress/audit.md
 ```
