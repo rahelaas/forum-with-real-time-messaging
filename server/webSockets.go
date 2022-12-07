@@ -80,7 +80,7 @@ func webSocketHandler(w http.ResponseWriter, r *http.Request) {
 	row.Scan(&userName)
 
 	for userN := range users {
-		if userN == userName {
+		if userN == userName || userN == "" {
 			delete(users, userName)
 		}
 	}
