@@ -81,7 +81,8 @@ func webSocketHandler(w http.ResponseWriter, r *http.Request) {
 
 	for userN := range users {
 		if userN == userName || userN == "" {
-			delete(users, userName)
+		fmt.Println("remove username \"",userN,"\"")
+			delete(users, userN)
 		}
 	}
 
