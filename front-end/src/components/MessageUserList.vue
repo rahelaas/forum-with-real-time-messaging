@@ -316,6 +316,7 @@ export default {
   padding: 1em;
   overflow: auto;
   max-width:200px;
+  min-width:150px;
   margin: 1%;
   box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3)
 }
