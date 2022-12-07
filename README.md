@@ -24,7 +24,11 @@ http://localhost:8080
 ```
 https://github.com/01-edu/public/tree/master/subjects/real-time-forum/typing-in-progress
 ```
-## Audit questions here:
+## Audit questions:
 ```
 https://github.com/01-edu/public/blob/master/subjects/real-time-forum/typing-in-progress/audit.md
+```
+## Authors:
+```
+kaspars & rahela
 ```
